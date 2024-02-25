@@ -42,7 +42,7 @@ Custom fonts must be placed in "userfont" directory on SD card!
 
 ## WTFOS
 
-Jailbreak for DJI V1 and V2 goggles and some air units that enables MSP DigitalPort among other things.
+Jailbreak for DJI V1 and V2 goggles and some air units that enables MSP Displayport among other things.
 
 - https://github.com/fpv-wtf/msp-osd
   - [PNG previews (one-page templates)](https://github.com/fpv-wtf/msp-osd/tree/main/docs/fonts)
