@@ -20,7 +20,7 @@ Typical flow: `font-in-format-X -> template -> (optional editing) -> font-in-for
 There are also handly little tools for templates manipulation:
   - `generate_overlay.py` -- generates an image to help with editing templates
     _put it into a separate 20% opacity layer on top of everything in your image editor_
-  - `template_merge.py` -- takes two template images and outputs one templte, a merge result
+  - `template_merge.py` -- takes two template images and outputs one template, a merge result
     _second template replaces characters of first template for all non-empty second template characters_
   - `template_extract.py` -- takes a template and generates a new template with all characters empty except some copied from the given template
     _see examples folder for inspiration_
@@ -36,7 +36,6 @@ Low latency digital FPV system
 
 Custom fonts must be placed in "userfont" directory on SD card!
 
-- [Custom Walksnail OSD Fonts](https://github.com/jduerr/Custom-Walksnail-OSD-Fonts)
 - [Walksnail OSD Tool](https://github.com/avsaase/walksnail-osd-tool/)
 
 
